@@ -1,1 +1,13 @@
-stacked graph
+stacked graphs
+brushing-and-linking
+parallel coordinates
+choropleth maps
+cartograms
+node-link diagram
+icicle tree layout
+sunburst layout
+treemap layout
+enclosure diagrams
+circle-packing layouts
+arc diagram
+matrix views
