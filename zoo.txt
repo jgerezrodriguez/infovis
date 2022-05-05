@@ -10,4 +10,3 @@ treemap layout
 enclosure diagrams
 circle-packing layouts
 arc diagram
-matrix views
